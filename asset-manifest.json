@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/warehouse-staging/static/css/main.f9eacfa4.css",
-    "main.js": "/warehouse-staging/static/js/main.8375b1b9.js",
-    "static/js/415.1b06b58e.chunk.js": "/warehouse-staging/static/js/415.1b06b58e.chunk.js",
-    "static/js/mapbox-gl-csp-worker.b5c86e8e.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.b5c86e8e.worker.js",
-    "index.html": "/warehouse-staging/index.html",
-    "main.f9eacfa4.css.map": "/warehouse-staging/static/css/main.f9eacfa4.css.map",
-    "main.8375b1b9.js.map": "/warehouse-staging/static/js/main.8375b1b9.js.map",
-    "415.1b06b58e.chunk.js.map": "/warehouse-staging/static/js/415.1b06b58e.chunk.js.map"
+    "main.css": "/riverscapes/static/css/main.f52d633c.css",
+    "main.js": "/riverscapes/static/js/main.8f235a4d.js",
+    "static/js/415.205693e0.chunk.js": "/riverscapes/static/js/415.205693e0.chunk.js",
+    "static/js/mapbox-gl-csp-worker.245b055b.worker.js": "/riverscapes/static/js/mapbox-gl-csp-worker.245b055b.worker.js",
+    "index.html": "/riverscapes/index.html",
+    "main.f52d633c.css.map": "/riverscapes/static/css/main.f52d633c.css.map",
+    "main.8f235a4d.js.map": "/riverscapes/static/js/main.8f235a4d.js.map",
+    "415.205693e0.chunk.js.map": "/riverscapes/static/js/415.205693e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9eacfa4.css",
-    "static/js/main.8375b1b9.js"
+    "static/css/main.f52d633c.css",
+    "static/js/main.8f235a4d.js"
   ]
 }

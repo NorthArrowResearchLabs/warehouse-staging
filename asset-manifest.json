@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/warehouse-staging/static/css/main.f52d633c.css",
-    "main.js": "/warehouse-staging/static/js/main.aacaecd9.js",
+    "main.js": "/warehouse-staging/static/js/main.8b25d3db.js",
     "static/js/415.205693e0.chunk.js": "/warehouse-staging/static/js/415.205693e0.chunk.js",
-    "static/js/mapbox-gl-csp-worker.1c3c8c74.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.1c3c8c74.worker.js",
+    "static/js/mapbox-gl-csp-worker.c99c9662.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.c99c9662.worker.js",
     "index.html": "/warehouse-staging/index.html",
     "main.f52d633c.css.map": "/warehouse-staging/static/css/main.f52d633c.css.map",
-    "main.aacaecd9.js.map": "/warehouse-staging/static/js/main.aacaecd9.js.map",
+    "main.8b25d3db.js.map": "/warehouse-staging/static/js/main.8b25d3db.js.map",
     "415.205693e0.chunk.js.map": "/warehouse-staging/static/js/415.205693e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f52d633c.css",
-    "static/js/main.aacaecd9.js"
+    "static/js/main.8b25d3db.js"
   ]
 }

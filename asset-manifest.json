@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/warehouse-staging/static/css/main.f52d633c.css",
-    "main.js": "/warehouse-staging/static/js/main.8b25d3db.js",
+    "main.css": "/warehouse-staging/static/css/main.a7c05a96.css",
+    "main.js": "/warehouse-staging/static/js/main.7910b565.js",
     "static/js/415.205693e0.chunk.js": "/warehouse-staging/static/js/415.205693e0.chunk.js",
     "static/js/mapbox-gl-csp-worker.c99c9662.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.c99c9662.worker.js",
     "index.html": "/warehouse-staging/index.html",
-    "main.f52d633c.css.map": "/warehouse-staging/static/css/main.f52d633c.css.map",
-    "main.8b25d3db.js.map": "/warehouse-staging/static/js/main.8b25d3db.js.map",
+    "main.a7c05a96.css.map": "/warehouse-staging/static/css/main.a7c05a96.css.map",
+    "main.7910b565.js.map": "/warehouse-staging/static/js/main.7910b565.js.map",
     "415.205693e0.chunk.js.map": "/warehouse-staging/static/js/415.205693e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f52d633c.css",
-    "static/js/main.8b25d3db.js"
+    "static/css/main.a7c05a96.css",
+    "static/js/main.7910b565.js"
   ]
 }

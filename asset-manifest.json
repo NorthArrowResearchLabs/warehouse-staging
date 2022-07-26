@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/warehouse-staging/static/css/main.1129132c.css",
-    "main.js": "/warehouse-staging/static/js/main.a922d735.js",
+    "main.css": "/warehouse-staging/static/css/main.1929ce95.css",
+    "main.js": "/warehouse-staging/static/js/main.4ddfd580.js",
     "static/js/415.205693e0.chunk.js": "/warehouse-staging/static/js/415.205693e0.chunk.js",
-    "static/js/mapbox-gl-csp-worker.c99c9662.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.c99c9662.worker.js",
+    "static/js/mapbox-gl-csp-worker.e3c8ceec.worker.js": "/warehouse-staging/static/js/mapbox-gl-csp-worker.e3c8ceec.worker.js",
     "index.html": "/warehouse-staging/index.html",
-    "main.1129132c.css.map": "/warehouse-staging/static/css/main.1129132c.css.map",
-    "main.a922d735.js.map": "/warehouse-staging/static/js/main.a922d735.js.map",
+    "main.1929ce95.css.map": "/warehouse-staging/static/css/main.1929ce95.css.map",
+    "main.4ddfd580.js.map": "/warehouse-staging/static/js/main.4ddfd580.js.map",
     "415.205693e0.chunk.js.map": "/warehouse-staging/static/js/415.205693e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1129132c.css",
-    "static/js/main.a922d735.js"
+    "static/css/main.1929ce95.css",
+    "static/js/main.4ddfd580.js"
   ]
 }
